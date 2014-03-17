@@ -1,0 +1,9 @@
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\bin\Release\Options.exe
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\bin\Release\Options.pdb
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.Form1.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.Properties.Resources.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.XtraReport1.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.csproj.GenerateResource.Cache
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.exe.licenses
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.exe
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Release\Options.pdb

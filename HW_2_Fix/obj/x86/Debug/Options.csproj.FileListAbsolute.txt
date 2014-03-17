@@ -1,0 +1,30 @@
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\bin\Debug\Options.exe
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\bin\Debug\Options.pdb
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\obj\x86\Debug\Options.Form1.resources
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\obj\x86\Debug\Options.Properties.Resources.resources
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\obj\x86\Debug\Options.csproj.GenerateResource.Cache
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\obj\x86\Debug\Options.exe
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\Options\obj\x86\Debug\Options.pdb
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.exe
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.pdb
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.Form1.resources
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.Properties.Resources.resources
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.csproj.GenerateResource.Cache
+D:\Open_Rus\Код\Options\Options\Options\bin\Debug\Options.exe
+D:\Open_Rus\Код\Options\Options\Options\bin\Debug\Options.pdb
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.csprojResolveAssemblyReference.cache
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.exe.licenses
+D:\Open_Rus\Код\Options\Options\Options\obj\x86\Debug\Options.XtraReport1.resources
+<<<<<<< HEAD
+=======
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.exe
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.pdb
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\bin\Debug\Options.exe
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\bin\Debug\Options.pdb
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.csprojResolveAssemblyReference.cache
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.Form1.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.Properties.Resources.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.XtraReport1.resources
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.csproj.GenerateResource.Cache
+D:\Open_Rus\Код\git\prog2014\HW_2_Final\obj\x86\Debug\Options.exe.licenses
+>>>>>>> Fix
