@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TrianglesOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <color>
+    <float>5</float>
+    <float>3</float>
+    <float>3</float>
+  </color>
+  <side>6</side>
+  <rotor>0</rotor>
+</TrianglesOptions>
